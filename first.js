@@ -9,3 +9,6 @@ console.log(Payment);
 
 const upi="integrated the upi";
 console.log(upi);
+
+const footer="Footer added in our website";
+console.log(footer);
