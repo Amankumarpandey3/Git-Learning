@@ -15,3 +15,5 @@ console.log(footer);
 
 // rebase --> brach ko lekar agye le aoo aur code me change ho jata hai aur yaha pr merge conflict aa jayega jisko hum code me chage karonga
 
+// GitHub -> ek platform hai jisse ap apne code ko host kar sakte ho
+console.log("Latest Update");
