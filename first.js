@@ -13,5 +13,5 @@ console.log(upi);
 const footer="Footer added in our website";
 console.log(footer);
 
-// rebase --> brach ko lekar agye le aoo aur code me change ho jata hai
+// rebase --> brach ko lekar agye le aoo aur code me change ho jata hai aur yaha pr merge conflict aa jayega jisko hum code me chage karonga
 
